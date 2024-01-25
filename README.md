@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harshal-mohagaonkar
-- 👀 I’m interested in  front end development HTML ,CSS , JS.
-- 🌱 I’m currently learning HTML, CSS ,JS
-- 💞️ I’m looking to collaborate on ...HTML, CSS ,JS
+- 👀 I’m interested in  backend  development Java, spring boot.
+- 🌱 I’m looking to collaborate on .. Java & spring boot related projects. 
 - 📫 How to reach me harshalmohagaonkar@gmail.com
 
 <!---
